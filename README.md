@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+EvilGeniusViewTool::Renderer.copyright 'Evil Genius', 'All rights reserved'
+```
 
 ## Development
 
