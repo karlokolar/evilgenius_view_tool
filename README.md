@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-EvilGeniusViewTool::Renderer.copyright 'Evil Genius', 'All rights reserved'
+EvilgeniusViewTool::Renderer.copyright 'Evil Genius', 'All rights reserved'
 ```
 
 ## Development
